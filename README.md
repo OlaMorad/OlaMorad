@@ -26,22 +26,6 @@ I’m a Back-End Developer skilled in **Laravel, PHP, and MySQL**, with hands-on
 
 ---
 
-## 🚀 Projects  
-
-- **[Syrian Board Project](https://github.com/OlaMorad/project_1)**  
-  Automating the Syrian Board of Medical Specialties system by converting paper workflows into fully digital processes, including conducting online exams.  
-
-- **[Safarnia – Travel Booking App](https://github.com/Huma-volve/round5-safarnia)** *(Internship – Huma-volve)*  
-  Developed the **hotel room reservation module**, handling booking management, reservation flows, and a review system to enhance user experience.  
-
-- **[Byway – Online Educational Platform](https://github.com/Huma-volve/round5-byway)** *(Internship – Huma-volve)*  
-  Built the **admin dashboard** enabling full management of the online educational platform, providing detailed statistics and insights.  
-
-- **[Event Management System](https://github.com/OlaMorad/permissions-system)**  
-  Created a system with an admin dashboard for managing events and wedding halls, integrated with a mobile application for venue booking and event arrangements.  
-
----
-
 ## 📊 GitHub Stats  
 
 ![Ola's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlaMorad&show_icons=true&theme=radical)  
