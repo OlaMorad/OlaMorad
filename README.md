@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm Ola
 
-<!--
-**OlaMorad/OlaMorad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics Engineer | 💻 Back-End Developer (Laravel)  
+🚀 Passionate about building scalable web apps and solving real-world problems.  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** PHP, Java, Python, C#  
+- **Frameworks:** Laravel, Angular  
+- **Databases:** MySQL, PostgreSQL  
+- **Tools:** Git, Docker, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- [Blocks Game in Java](https://github.com/ola-morad/blocks-game)  
+- [Spot the Difference (C# WinForms)](https://github.com/ola-morad/spot-the-difference)  
+- [Laravel Government Paperwork Assistant](https://github.com/ola-morad/paperwork-assistant)  
+
+## 📊 GitHub Stats
+![Ola's GitHub stats](https://github-readme-stats.vercel.app/api?username=ola-morad&show_icons=true&theme=radical)  
+
+## 🌐 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/ola-morad)  
+- ✉️ ola.morad@email.com  
