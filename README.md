@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ola
+# Hi there 👋, I'm Ola Morad
 
 🎓 Informatics Engineer | 💻 Back-End Developer (Laravel)  
 🚀 Passionate about building scalable web apps and solving real-world problems.  
