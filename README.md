@@ -7,7 +7,7 @@
 ---
 
 ## 👩‍💻 About Me  
-I’m a passionate Back-End Developer skilled in **Laravel, PHP, and MySQL**, with hands-on experience in:  
+I’m a Back-End Developer skilled in **Laravel, PHP, and MySQL**, with hands-on experience in:  
 - Building **structured and scalable RESTful APIs**  
 - Designing & optimizing **relational databases** (indexing, query optimization, relational modeling)  
 - Applying **SOLID principles** & clean architecture  
