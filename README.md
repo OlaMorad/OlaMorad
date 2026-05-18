@@ -27,9 +27,7 @@ I’m a Back-End Developer skilled in **Laravel, PHP, and MySQL**, with hands-on
 ---
 
 ## 📊 GitHub Stats  
-
-![Ola's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlaMorad&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlaMorad&layout=compact&theme=radical)  
+ 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=OlaMorad&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
